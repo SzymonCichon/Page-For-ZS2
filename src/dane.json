@@ -1,0 +1,55 @@
+{
+    "project":[
+        {
+            "project_name":"Pasje. Mobilność! Profilaktyka", 
+            "number_of_elements":5,
+            "names_of_elemets":[
+                {
+                    "element_name":"el1",
+                    "lu":"asinufdsv8omhdisahucof8waemfhvsamo8gsafyvnnfjlsiafmwo8csdhasafduvma9fm99spa9fvavfysya8f",
+                    "lu_type":"text",
+                    "ru":"logo192.png",
+                    "ru_type":"img",
+                    "ld":"film1.mp4",
+                    "ld_type":"video"
+                },
+                {
+                    "element_name":"el2"
+                },
+                {
+                    "element_name":"el3"
+                },
+                {
+                    "element_name":"el4"
+                },
+                {
+                    "element_name":"el5"
+                }
+                
+            ]
+        },
+        {
+            "project_name":"Pasje", 
+            "number_of_elements":5,
+            "names_of_elemets":[
+                {
+                    "element_name":"el12"
+                },
+                {
+                    "element_name":"el22"
+                },
+                {
+                    "element_name":"el32"
+                },
+                {
+                    "element_name":"el42"
+                },
+                {
+                    "element_name":"el52"
+                }
+            ]            
+        }
+    ],
+    "number_of_projects":2,
+    "do_edycji" : ""
+}

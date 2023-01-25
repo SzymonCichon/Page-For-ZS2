@@ -1,0 +1,201 @@
+#baner
+{
+  position: fixed;
+  left:20%;
+  display: flex;
+  height:100%;
+  width: auto;
+}
+body
+{
+  background-color: #1D4790;
+}
+.Projects
+{
+  height: 10%;
+  width: 100%;
+  background-color: lightgrey;
+  text-align: center;
+  font-size: 2vh;
+}
+.Projects:hover
+{
+  transition-duration: 1s;
+  transition-delay: 5ms;
+  opacity: 60%;
+}
+.Elements_CSS
+{
+  height: 7%;
+  width: 100%;
+  background-color: lightgrey;
+  text-align: center;
+  font-size: 2vh;
+  display: none;
+}
+.Elements_CSS:hover
+{
+  transition-duration: 1s;
+  transition-delay: 5ms;
+  opacity: 60%;
+}
+#Baner_Replacement
+{
+  position: fixed;
+  top: 0%;
+  left: 20%;
+  width: 80%;
+  height: 100%;
+}
+.Baner_Replacement_Elements
+{
+  display: none;
+}
+.Banner_Header
+{
+  width: 100%;
+  height: 10%;
+  font-size: 5vh;
+  font-weight: bold;
+  text-align: center;
+}
+.lu
+{
+  position: absolute;
+  left: 0%;
+  top: 10%;
+  width: 50%;
+  height: 45%;
+  font-size: 2vh;
+  word-wrap: break-word;
+  text-align: justify;
+  margin: 1%;
+  
+}
+.ru
+{
+  position: absolute;
+  left: 50%;
+  top: 10%;
+  width: 50%;
+  height: 45%;
+  font-size: 2vh;
+  word-wrap: break-word;
+  text-align: justify;
+  margin: 1%;
+}
+.ld
+{
+  position: absolute;
+  left: 0%;
+  top: 55%;
+  width: 50%;
+  height: 45%;
+  font-size: 2vh;
+  word-wrap: break-word;
+  text-align: justify;
+  margin: 1%;
+}
+.rd
+{
+  position: absolute;
+  left: 50%;
+  top: 55%;
+  width: 50%;
+  height: 45%;
+  font-size: 2vh;
+  word-wrap: break-word;
+  text-align: justify;
+  margin: 1%;
+}
+.class_img {
+  height: 45%;
+  width: auto;
+}
+#admin
+{
+  position: absolute;
+  left: 90%;
+  top: 90%;
+  height: 10%;
+  width: 10%;
+}
+#admin_logowanie
+{
+  position: absolute;
+  left: 40%;
+  top: 40%;
+  height: 20%;
+  width: 20%;
+}
+#First_form
+{
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  width: 20%;
+  height: 20%;
+  font-size: 3vh;
+  background-color: aqua;
+  display: none;
+  padding: 10px;
+}
+#Secound_form
+{
+  position: absolute;
+  top: 20%;
+  left: 20%;
+  width: 60%;
+  height: 60%;
+  font-size: 3vh;
+  background-color: aqua;
+  display: none;
+  padding: 10px;
+}
+#Projekts_Column
+{
+  position: absolute;
+  left: 0%;
+  top: 0%;
+}
+#Elements_Column
+{
+  position: absolute;
+  left: 25%;
+  top: 0%;
+}
+#Edit_Column
+{
+  position: absolute;
+  left: 50%;
+  top: 0%;
+}
+.Projects_admin
+{
+  font-size: 2vh;
+  
+}
+#Projekty_admin
+{
+  width: 25%;
+  position: absolute;
+  top: 5vh;
+}
+.Project_admin_del_class
+{
+  color: blue;
+}
+#add_project
+{
+  color: blue;
+  font-size: 2vh;
+}
+#Add_project_name
+{
+  font-size: 2vh;
+  width: 100%;
+}
+#data_to_serwer
+{
+  display: none;
+}
